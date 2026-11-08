@@ -1,0 +1,42 @@
+Data Size : 1000
+
+Quick Sort (First)    : 10789 comparisons
+Quick Sort (Random)   : 10614 comparisons
+Quick Sort (Median-3) : 10823 comparisons
+
+Data Size : 2000
+
+Quick Sort (First)    : 23775 comparisons
+Quick Sort (Random)   : 25040 comparisons
+Quick Sort (Median-3) : 23203 comparisons
+
+Data Size : 4000
+
+Quick Sort (First)    : 58918 comparisons
+Quick Sort (Random)   : 55826 comparisons
+Quick Sort (Median-3) : 51925 comparisons
+
+Data Size : 8000
+
+Quick Sort (First)    : 123014 comparisons
+Quick Sort (Random)   : 118077 comparisons
+Quick Sort (Median-3) : 113910 comparisons
+
+Data Size : 16000
+
+Quick Sort (First)    : 271091 comparisons
+Quick Sort (Random)   : 263489 comparisons
+Quick Sort (Median-3) : 245622 comparisons
+
+Data Size : 20000
+
+Quick Sort (First)    : 345894 comparisons
+Quick Sort (Random)   : 330002 comparisons
+Quick Sort (Median-3) : 314011 comparisons
+
+Data Size : 10000
+Pivot     : Median-of-Three
+
+Recursive Quick Sort : 13.916 ms
+Iterative Quick Sort : 13.240 ms
+(평균 50회 측정)
